@@ -1,0 +1,11 @@
+ValorAbsoluto
+	no devuelve el valor absoluto de un entero negativo
+
+Imprime
+	redecralacion de variables
+
+Cuadrado
+	en la declaracion de la funcion tenemos que indicar que devuelve un entero
+
+EsPositivo
+	no devuelve nada si el valor es negativo
